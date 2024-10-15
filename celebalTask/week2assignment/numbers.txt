@@ -1,0 +1,5 @@
+# This is a comment, it won't be counted
+12.3
+45
+Another comment
+67.8
